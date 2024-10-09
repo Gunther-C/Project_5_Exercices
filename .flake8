@@ -1,0 +1,15 @@
+[flake8]
+max-line-length = 119
+exclude =
+    .venv,
+    */Exercice01/*,
+    */Exercice02/*,
+    */Exercice03/*,
+    */Exercice05/*,
+    */Exercice06/*,
+    */Exercice07/*,
+    */Exercice08/*,
+    */Exercice09/*,
+    */Exercice10/*,
+    */Exercice11/*,
+
